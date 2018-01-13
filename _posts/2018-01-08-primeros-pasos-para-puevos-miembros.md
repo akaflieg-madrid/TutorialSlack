@@ -1,6 +1,8 @@
 ---
 layout: single
-title:  "Tutorial Slack - Primeros pasos para nuevos miembros"
+title:  "Tutorial Slack"
+toc: true
+toc_label: "Primeros Pasos"
 header:
   teaser: /assets/images/slack.svg
 date:   2018-01-08 21:25:33 +0100
