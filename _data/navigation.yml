@@ -17,5 +17,5 @@ slack-tuto:
     children:
       - title: "Primeros pasos para nuevos miembros"
         url: /primeros-pasos-para-puevos-miembros/
-      - title: "Canales"
+      - title: "Canales y Comunicación"
         url: /canales-y-comunicacion/
