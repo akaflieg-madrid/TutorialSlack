@@ -4,7 +4,12 @@ title:  "Tutorial Slack - Primeros pasos para nuevos miembros"
 header:
   teaser: /assets/images/slack.svg
 date:   2018-01-08 21:25:33 +0100
-categories: tutorial
+author_profile: false
+sidebar: 
+  nav: "slack-tuto"
+tags:
+  - tutorial
+  - slack
 ---
 # Primeros pasos para nuevos miembros
 

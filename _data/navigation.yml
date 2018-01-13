@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Tutorial Slack"
-    url: /tutorial/primeros-pasos-para-puevos-miembros/
+  # - title: "Tutorial Slack"
+  #   url: /tutorial/primeros-pasos-para-puevos-miembros/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  #   
+
+slack-tuto:
+  - title: Tutorial Slack
+    children:
+      - title: "Primeros pasos para nuevos miembros"
+        url: /primeros-pasos-para-puevos-miembros/
+      - title: "Canales"
+        url: /canales-y-comunicacion/
+
+  - title: Customization
+    children:
+      - title: "Configuration"
