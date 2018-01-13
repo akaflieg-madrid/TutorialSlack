@@ -18,7 +18,7 @@ description              : "Formado por estudiantes UPM & pilotos SPL, ULM, PPL 
 url                      : "https://akafliegmadrid.github.io"
 baseurl                  : "/docs"
 repository               : "akafliegmadrid/docs"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/default-teaser.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -73,9 +73,12 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organisation
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/vueloUPM"
+    - "https://facebook.com/clubvueloupm"
+    - "https://instagram.com/clubvueloupm"
 
 # Analytics
 analytics:
@@ -87,23 +90,23 @@ analytics:
 # Site Author
 author:
   name             : "Club de Vuelo UPM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo-180x180.png"
   bio              : "Formado por estudiantes UPM & pilotos SPL, ULM, PPL y ATPL. Club de vuelo a vela y motor basado en la ETSIAE. Transmitimos esa gran pasión que es volar."
   location         : "Madrid"
   email            : "clubvuelo.aeroespacial@upm.es"
-  uri              :
+  uri              : "http://akafliegmadrid.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "clubvueloupm"
   foursquare       :
   github           : "akafliegmadrid"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "clubvueloupm"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -115,7 +118,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/user/vueloupm"
 
 
 # Reading Files
@@ -185,7 +188,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid
 
 
 # Plugins (previously gems:)
