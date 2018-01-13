@@ -19,7 +19,3 @@ slack-tuto:
         url: /primeros-pasos-para-puevos-miembros/
       - title: "Canales"
         url: /canales-y-comunicacion/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
