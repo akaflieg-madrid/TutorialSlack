@@ -69,15 +69,15 @@ Dado el tamaño de tu espacio, te recomendamos recibir notificaciones solo cuand
 
 En la siguiente página encontrarás las aplicaciones de Slack. Slack esta disponible en Linux, Windows y Mac. Además dispones de aplicaciones de móvil tanto para iOS como para Android. 
 
-[Descargar aplicaciones]
+[Descargar aplicaciones]{:target="_blank"}
 
 
 ### Conceptos Básicos de Slack
 
-- [Organizar y Nombrar Canales]
-- [Como Trabajar en Slack]
-- [Como mantenerte al dia con Slack]
-- [Poner a trabajar a Slackbot]
+- [Organizar y Nombrar Canales]{:target="_blank"}
+- [Como Trabajar en Slack]{:target="_blank"}
+- [Como mantenerte al dia con Slack]{:target="_blank"}
+- [Poner a trabajar a Slackbot]{:target="_blank"}
 
 
 [Aspectos Básicos de Slack]: https://get.slack.help/hc/es/articles/115004071768
