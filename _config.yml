@@ -5,16 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
 title                    : "Documentación Akaflieg"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-# url                      : "https://akafliegmadrid.github.io/docs"
+name                     : "Akaflieg Madrid"
+description              : "Formado por estudiantes UPM & pilotos SPL, ULM, PPL y ATPL. Club de vuelo a vela y motor basado en la ETSIAE. Transmitimos esa gran pasión que es volar."
+url                      : "https://akafliegmadrid.github.io/docs"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "akafliegmadrid/docs"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
