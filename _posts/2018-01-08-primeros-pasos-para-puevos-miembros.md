@@ -77,7 +77,7 @@ En la siguiente página encontrarás las aplicaciones de Slack. Slack esta dispo
 - [Organizar y Nombrar Canales]{:target="_blank"}
 - [Como Trabajar en Slack]{:target="_blank"}
 - [Como mantenerte al dia con Slack]{:target="_blank"}
-- [Poner a trabajar a Slackbot]{:target="_blank"}
+- [Pon a trabajar a Slackbot]{:target="_blank"}
 
 
 [Aspectos Básicos de Slack]: https://get.slack.help/hc/es/articles/115004071768
@@ -85,4 +85,4 @@ En la siguiente página encontrarás las aplicaciones de Slack. Slack esta dispo
 [Como Trabajar en Slack]: https://get.slack.help/hc/es/articles/115004056967-Trabajar-en-Slack
 [Organizar y Nombrar Canales]: https://get.slack.help/hc/es/articles/217626408-Organizar-y-nombrar-canales
 [Como mantenerte al dia con Slack]: https://get.slack.help/hc/es/articles/217626558-Mantente-al-d%C3%ADa-sobre-lo-que-realmente-importa
-[Poner a trabajar a Slackbot]: https://get.slack.help/hc/es/articles/202026038-Slackbot-your-assistant-and-programmable-bot
+[Pon a trabajar a Slackbot]: https://get.slack.help/hc/es/articles/202026038-Slackbot-your-assistant-and-programmable-bot
