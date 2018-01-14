@@ -48,7 +48,7 @@ En el espacio de trabajo de Akaglieg comenzamos con estos dos canales por defect
 
 1. Cuando hayas terminado haz click en __Crear un canal__
 
-Para más informacion en slack hay una guía sobre [Organizar y nombrar canales].
+Para más informacion en slack hay una guía sobre [Organizar y nombrar canales]{:target="_blank"}.
 
 ### Notas extras sobre canales
 
